@@ -26,7 +26,9 @@ SCRUM 방식을 사용해 자기 계발 및 취미 관련 사이트 class 101 (h
 ### BackEnd
 - python
 - Django
-- (추후 재작성 예정)
+- MySQL
+- AWS(EC2, RDS, S3)
+- Redis
 
 ## 멤버 소개
 1. 구현정 
